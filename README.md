@@ -69,6 +69,8 @@ Models are evaluated on a held-out **chronological** test partition covering **2
 │   └── processed/
 │       ├── model_features.csv
 │       └── japan_clean_events.csv
+         RAW
+
 └── models/
     ├── forecast_models.joblib
     └── test_metrics.csv

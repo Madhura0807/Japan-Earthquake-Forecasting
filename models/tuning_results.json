@@ -1,0 +1,758 @@
+[
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.01,
+    "max_depth": 6,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.47799791728039925
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.01,
+    "max_depth": 6,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4754300396570885
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.03,
+    "max_depth": 4,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.46826282995624535
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.46732544887800676
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.05,
+    "max_depth": 4,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4660583224951591
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.01,
+    "max_depth": 6,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.46504224947933537
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.01,
+    "max_depth": 4,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.46480793198663745
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.01,
+    "max_depth": 4,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4644408426151877
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.01,
+    "max_depth": 6,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4643198854274564
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.46284005464505795
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4618796548771027
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.01,
+    "max_depth": 6,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.46165673904701376
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.03,
+    "max_depth": 4,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4616028001209498
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4612980597457548
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.03,
+    "max_depth": 6,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.45919056427253263
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.01,
+    "max_depth": 4,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4589692022452566
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.01,
+    "max_depth": 6,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4582270826924597
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.45815395152624533
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.45762146408205673
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.01,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4573886146144217
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.03,
+    "max_depth": 4,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4571492133224049
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.05,
+    "max_depth": 4,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4569423411255116
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.01,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.45690576475896066
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.45603812003327526
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.03,
+    "max_depth": 6,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.45565515388570577
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.03,
+    "max_depth": 6,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4549146026515741
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.01,
+    "max_depth": 6,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4543725317201546
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.45307476010100484
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.01,
+    "max_depth": 4,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.45284950155687437
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4528241555889455
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.01,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4524189290601323
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.03,
+    "max_depth": 4,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4513004235616844
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.03,
+    "max_depth": 4,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.45084255136733586
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.01,
+    "max_depth": 4,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.45082327607851075
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.01,
+    "max_depth": 6,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4506396001021559
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.01,
+    "max_depth": 4,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.45015600020980295
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.1,
+    "max_depth": 3,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4498448604809906
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.44754391600407767
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.05,
+    "max_depth": 4,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4474970443832391
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.03,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4474173520482654
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.01,
+    "max_depth": 3,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.44727534723735674
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.01,
+    "max_depth": 3,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4470088062310998
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.44626505636522573
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.1,
+    "max_depth": 3,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4451969250833816
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.01,
+    "max_depth": 6,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.44513248732776767
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.03,
+    "max_depth": 4,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4447650099524233
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4446899312577788
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.01,
+    "max_depth": 3,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.44421345686987573
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4437971088463346
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4434358064092111
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4423640343887353
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.03,
+    "max_depth": 6,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4413598829680601
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.01,
+    "max_depth": 3,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.44119833187718216
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.03,
+    "max_depth": 6,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4409565815085106
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.1,
+    "max_depth": 3,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4404793960869424
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.44009313245331005
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.43995868355685414
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.05,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.439699957195551
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.01,
+    "max_depth": 3,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.43942197872474387
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.03,
+    "max_depth": 6,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4391521491097695
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.43908245080144853
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.1,
+    "max_depth": 3,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.43732125449143533
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.03,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.43698546704832764
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.1,
+    "max_depth": 3,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4360128431026546
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.01,
+    "max_depth": 3,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.43474041708495015
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.43367356962910536
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.43295619909378147
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.43260927201926236
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.43199874114683906
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.03,
+    "max_depth": 6,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4318122336582527
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.03,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.43145784325228875
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.01,
+    "max_depth": 3,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.43062253024567265
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.43017107494407025
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.03,
+    "max_depth": 6,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.42935207851048945
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4292473875500952
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.05,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.42890577859210416
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.05,
+    "max_depth": 4,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.428525765192531
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.1,
+    "max_depth": 3,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4279150458880472
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.1,
+    "max_depth": 6,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.42779347582283217
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.05,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4274947193835048
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.1,
+    "max_depth": 6,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4271654599451744
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.1,
+    "max_depth": 3,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.42682269020145835
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4268087600204608
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.1,
+    "max_depth": 3,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.42642157377239515
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.1,
+    "max_depth": 3,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.42469417249109465
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.42411576948895874
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.01,
+    "max_depth": 3,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4238534724047187
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.03,
+    "max_depth": 6,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4238083102199801
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.01,
+    "max_depth": 3,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4236837415630119
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.1,
+    "max_depth": 6,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.42321855235506345
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4215401059293809
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.05,
+    "max_depth": 4,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4202183626132419
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.42003337636469523
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4200216885004744
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.1,
+    "max_depth": 6,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4183886119409017
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.41834179616480766
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.05,
+    "max_depth": 4,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4182620283985438
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4174728671701001
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.41619634793816035
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.1,
+    "max_depth": 6,
+    "min_samples_leaf": 30,
+    "validation_pr_auc": 0.4133283518551666
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.1,
+    "max_depth": 6,
+    "min_samples_leaf": 50,
+    "validation_pr_auc": 0.4111550520339625
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.41080319263045173
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4098578903528861
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4079156270842538
+  },
+  {
+    "l2_regularization": 0.1,
+    "learning_rate": 0.1,
+    "max_depth": 6,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.4044416258619095
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.39773125942472676
+  },
+  {
+    "l2_regularization": 0.0,
+    "learning_rate": 0.1,
+    "max_depth": 6,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.38131688389049323
+  },
+  {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.1,
+    "max_depth": 6,
+    "min_samples_leaf": 15,
+    "validation_pr_auc": 0.3789240520171122
+  }
+]

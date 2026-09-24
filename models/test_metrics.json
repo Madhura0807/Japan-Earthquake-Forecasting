@@ -1,0 +1,101 @@
+[
+  {
+    "Model": "1. Logistic Regression (L2)",
+    "PR-AUC": 0.44900338386040795,
+    "ROC-AUC": 0.7194616977225671,
+    "Brier Score": 0.21634179635526585,
+    "F1-Score": 0.4897959183673469,
+    "Precision": 0.3609022556390977,
+    "Recall": 0.7619047619047619,
+    "Accuracy": 0.6296296296296297,
+    "Balanced Acc": 0.6756383712905452
+  },
+  {
+    "Model": "2. Random Forest Classifier",
+    "PR-AUC": 0.42486492468663245,
+    "ROC-AUC": 0.7022851008358255,
+    "Brier Score": 0.2154296003820968,
+    "F1-Score": 0.48,
+    "Precision": 0.35036496350364965,
+    "Recall": 0.7619047619047619,
+    "Accuracy": 0.6148148148148148,
+    "Balanced Acc": 0.6659765355417528
+  },
+  {
+    "Model": "3. Gradient Boosted Trees",
+    "PR-AUC": 0.4082537096980951,
+    "ROC-AUC": 0.685530250747642,
+    "Brier Score": 0.1658588996545137,
+    "F1-Score": 0.24390243902439024,
+    "Precision": 0.5263157894736842,
+    "Recall": 0.15873015873015872,
+    "Accuracy": 0.7703703703703704,
+    "Balanced Acc": 0.5576259489302968
+  },
+  {
+    "Model": "3. Gradient Boosted Trees (Tuned)",
+    "PR-AUC": 0.38918944549545753,
+    "ROC-AUC": 0.6792040487692662,
+    "Brier Score": 0.16635090040985942,
+    "F1-Score": 0.1891891891891892,
+    "Precision": 0.6363636363636364,
+    "Recall": 0.1111111111111111,
+    "Accuracy": 0.7777777777777778,
+    "Balanced Acc": 0.5458937198067633
+  },
+  {
+    "Model": "4. Multi-Layer Perceptron (MLP)",
+    "PR-AUC": 0.38238069287671145,
+    "ROC-AUC": 0.6792807300053677,
+    "Brier Score": 0.17082317670254527,
+    "F1-Score": 0.26506024096385544,
+    "Precision": 0.55,
+    "Recall": 0.1746031746031746,
+    "Accuracy": 0.774074074074074,
+    "Balanced Acc": 0.5655624568668047
+  },
+  {
+    "Model": "4. Poisson Seismicity Rate",
+    "PR-AUC": 0.36613756613756615,
+    "ROC-AUC": 0.712215320910973,
+    "Brier Score": 0.2223504337355682,
+    "F1-Score": 0.3148148148148148,
+    "Precision": 0.37777777777777777,
+    "Recall": 0.2698412698412698,
+    "Accuracy": 0.725925925925926,
+    "Balanced Acc": 0.567287784679089
+  },
+  {
+    "Model": "2. Historical Grid Base Rate",
+    "PR-AUC": 0.36613756613756615,
+    "ROC-AUC": 0.712215320910973,
+    "Brier Score": 0.16515842552105459,
+    "F1-Score": 0.3148148148148148,
+    "Precision": 0.37777777777777777,
+    "Recall": 0.2698412698412698,
+    "Accuracy": 0.725925925925926,
+    "Balanced Acc": 0.567287784679089
+  },
+  {
+    "Model": "1. Dummy Baseline (Global Prior)",
+    "PR-AUC": 0.23333333333333334,
+    "ROC-AUC": 0.5,
+    "Brier Score": 0.179128225086422,
+    "F1-Score": 0.0,
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "Accuracy": 0.7666666666666667,
+    "Balanced Acc": 0.5
+  },
+  {
+    "Model": "3. Persistence (Recent M4.5+)",
+    "PR-AUC": 0.23333333333333334,
+    "ROC-AUC": 0.5,
+    "Brier Score": 0.179128225086422,
+    "F1-Score": 0.0,
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "Accuracy": 0.7666666666666667,
+    "Balanced Acc": 0.5
+  }
+]
